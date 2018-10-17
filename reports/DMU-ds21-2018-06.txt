@@ -1,0 +1,37 @@
+Report for Institution Code DMU, Resource ds21
+Usage stats for June 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 9
+Number of records retrieved in searches: 26
+Number of different countries where searches have been originated: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 9
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-06-19 ; Times: 3
+	Date: 2018-06-13 ; Times: 2
+	Date: 2018-06-14 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "KU 727" ; Times: 1
+	Query: "KU 5932" ; Times: 2
+	Query: "KU 5929" ; Times: 3
+	Query: "KU 5937" ; Times: 3
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 0 (out of 1169 download events in this period)
+Total number of records downloaded: 0
+Number of different countries: 0
+
+Origin of the queries that retrieved data from the resource: 
+
+Dates of the queries that retrieved data from the resource: 
+
+List of queries that retrieved data from the resource: 
+
+
+End of report.
