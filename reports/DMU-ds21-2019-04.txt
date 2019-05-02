@@ -1,0 +1,46 @@
+Report for Institution Code DMU, Resource ds21
+Usage stats for April 2019, generated on 2019/05/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 9
+Number of records retrieved in searches: 226
+Number of different countries where searches have been originated: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 6
+	Country: Denmark ; Times: 1
+	Country: Germany ; Times: 1
+	Country: Brazil ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-04-12 ; Times: 1
+	Date: 2019-04-11 ; Times: 2
+	Date: 2019-04-30 ; Times: 1
+	Date: 2019-04-01 ; Times: 2
+	Date: 2019-04-02 ; Times: 2
+	Date: 2019-04-08 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "KU 5932" ; Times: 1
+	Query: "Haptophyta" ; Times: 1
+	Query: "institutioncode:DMU" ; Times: 1
+	Query: "KU 5143" ; Times: 1
+	Query: "ku 8886" ; Times: 2
+	Query: "ku 5791" ; Times: 2
+	Query: "KU 6933" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 0 (out of 1263 download events in this period)
+Total number of records downloaded: 0
+Number of different countries: 0
+
+Origin of the queries that retrieved data from the resource: 
+
+Dates of the queries that retrieved data from the resource: 
+
+List of queries that retrieved data from the resource: 
+
+
+End of report.
