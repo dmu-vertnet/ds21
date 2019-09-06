@@ -1,0 +1,62 @@
+Report for Institution Code DMU, Resource ds21
+Usage stats for August 2019, generated on 2019/09/06
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 62
+Number of records retrieved in searches: 11209
+Number of different countries where searches have been originated: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Panama ; Times: 1
+	Country: France ; Times: 59
+	Country: Colombia ; Times: 1
+	Country: Mexico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-08-28 ; Times: 15
+	Date: 2019-08-15 ; Times: 1
+	Date: 2019-08-14 ; Times: 3
+	Date: 2019-08-13 ; Times: 1
+	Date: 2019-08-06 ; Times: 1
+	Date: 2019-08-27 ; Times: 29
+	Date: 2019-08-22 ; Times: 3
+	Date: 2019-08-30 ; Times: 9
+
+List of queries that retrieved data from the resource: 
+	Query: "Oscillatoria" ; Times: 1
+	Query: "oithona atlantica mappable:1" ; Times: 2
+	Query: "Centropages hamatus mappable:1" ; Times: 4
+	Query: "Corycaeus anglicus mappable:1" ; Times: 1
+	Query: "Microcalanus pygmaeus mappable:1" ; Times: 4
+	Query: "Acartia clausi mappable:1" ; Times: 3
+	Query: "Paracalanus parvus mappable:1" ; Times: 1
+	Query: "Nitzschia" ; Times: 1
+	Query: "Acartia tonsa mappable:1" ; Times: 6
+	Query: "Oithona atlantica mappable:1" ; Times: 4
+	Query: "Oithona nana mappable:1" ; Times: 5
+	Query: "Temora longicornis mappable:1" ; Times: 5
+	Query: "Oithona similis mappable:1" ; Times: 4
+	Query: "Acartia longiremis mappable:1" ; Times: 3
+	Query: "Paracalanus parvus parvus mappable:1" ; Times: 3
+	Query: "oithona similis mappable:1" ; Times: 2
+	Query: "Centropages typicus mappable:1" ; Times: 7
+	Query: "Eucalanus elongatus mappable:1" ; Times: 1
+	Query: "Oithona nana               mappable:1" ; Times: 1
+	Query: "Acartia bifilosa mappable:1" ; Times: 3
+	Query: "Foraminifera" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 0 (out of 1034 download events in this period)
+Total number of records downloaded: 0
+Number of different countries: 0
+
+Origin of the queries that retrieved data from the resource: 
+
+Dates of the queries that retrieved data from the resource: 
+
+List of queries that retrieved data from the resource: 
+
+
+End of report.
