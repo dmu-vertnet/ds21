@@ -1,0 +1,63 @@
+Report for Institution Code DMU, Resource ds21
+Usage stats for September 2019, generated on 2019/11/10
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 70
+Number of records retrieved in searches: 8482
+Number of different countries where searches have been originated: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 34
+	Country: France ; Times: 36
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-09-23 ; Times: 2
+	Date: 2019-09-22 ; Times: 1
+	Date: 2019-09-25 ; Times: 9
+	Date: 2019-09-24 ; Times: 3
+	Date: 2019-09-27 ; Times: 30
+	Date: 2019-09-26 ; Times: 25
+
+List of queries that retrieved data from the resource: 
+	Query: "Calanus finmarchicus mappable:1" ; Times: 4
+	Query: "Temora longicornis mappable:1" ; Times: 2
+	Query: "Centropages typicus mappable:1" ; Times: 3
+	Query: "Paracalanus parvus mappable:1" ; Times: 5
+	Query: "KU 2800" ; Times: 2
+	Query: "Oithona atlantica mappable:1" ; Times: 3
+	Query: "KU 2670" ; Times: 2
+	Query: "KU 577" ; Times: 1
+	Query: "Microcalanus pygmaeus mappable:1" ; Times: 3
+	Query: "KU 1183" ; Times: 2
+	Query: "KU 2463" ; Times: 2
+	Query: "Eucalanus elongatus mappable:1" ; Times: 2
+	Query: "KU 2464" ; Times: 2
+	Query: "KU 1871" ; Times: 2
+	Query: "KU 6517" ; Times: 2
+	Query: "KU 5294" ; Times: 1
+	Query: "Oithona similis mappable:1" ; Times: 3
+	Query: "Paracalanus parvus parvus mappable:1" ; Times: 2
+	Query: "KU 1177" ; Times: 6
+	Query: "KU 1178" ; Times: 1
+	Query: "KU 1179" ; Times: 5
+	Query: "Centropages hamatus mappable:1" ; Times: 4
+	Query: "KU 2831" ; Times: 4
+	Query: "Oithona nana mappable:1" ; Times: 3
+	Query: "KU 2669" ; Times: 2
+	Query: "Corycaeus anglicus mappable:1" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 0 (out of 1073 download events in this period)
+Total number of records downloaded: 0
+Number of different countries: 0
+
+Origin of the queries that retrieved data from the resource: 
+
+Dates of the queries that retrieved data from the resource: 
+
+List of queries that retrieved data from the resource: 
+
+
+End of report.
