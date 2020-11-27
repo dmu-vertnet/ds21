@@ -1,0 +1,47 @@
+Report for Institution Code DMU, Resource ds21
+Usage stats for February 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 13
+Number of records retrieved in searches: 273
+Number of different countries where searches have been originated: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 9
+	Country: Costa Rica ; Times: 1
+	Country: Mexico ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-02-11 ; Times: 1
+	Date: 2020-02-18 ; Times: 2
+	Date: 2020-02-09 ; Times: 3
+	Date: 2020-02-12 ; Times: 5
+	Date: 2020-02-17 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "class:Cyanophyceae" ; Times: 2
+	Query: "ku 4740" ; Times: 1
+	Query: "KU and 4113" ; Times: 1
+	Query: "KU 7418" ; Times: 1
+	Query: "balanus balanus" ; Times: 3
+	Query: "KU 5083" ; Times: 1
+	Query: "KU and 5013" ; Times: 1
+	Query: "KU 7020" ; Times: 1
+	Query: "KU 2978" ; Times: 1
+	Query: "KU and 5015" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 0 (out of 1023 download events in this period)
+Total number of records downloaded: 0
+Number of different countries: 0
+
+Origin of the queries that retrieved data from the resource: 
+
+Dates of the queries that retrieved data from the resource: 
+
+List of queries that retrieved data from the resource: 
+
+
+End of report.
