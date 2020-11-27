@@ -1,0 +1,54 @@
+Report for Institution Code DMU, Resource ds21
+Usage stats for November 2019, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 145
+Number of records retrieved in searches: 25464
+Number of different countries where searches have been originated: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 1
+	Country: France ; Times: 142
+	Country: Mexico ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-11-22 ; Times: 1
+	Date: 2019-11-24 ; Times: 2
+	Date: 2019-11-08 ; Times: 59
+	Date: 2019-11-26 ; Times: 28
+	Date: 2019-11-06 ; Times: 18
+	Date: 2019-11-07 ; Times: 37
+
+List of queries that retrieved data from the resource: 
+	Query: "Danish" ; Times: 1
+	Query: "Oithona atlantica mappable:1" ; Times: 10
+	Query: "Centropages hamatus mappable:1" ; Times: 11
+	Query: "Paracalanus parvus parvus mappable:1" ; Times: 10
+	Query: "Calanus finmarchicus mappable:1" ; Times: 12
+	Query: "Temora longicornis mappable:1" ; Times: 9
+	Query: "Oithona nana mappable:1" ; Times: 10
+	Query: "Eucalanus elongatus elongatus mappable:1" ; Times: 11
+	Query: "Oithona similis mappable:1" ; Times: 9
+	Query: "Limnocalanus macrurus macrurus mappable:1" ; Times: 10
+	Query: "Microcalanus pygmaeus mappable:1" ; Times: 10
+	Query: "Metridia longa mappable:1" ; Times: 10
+	Query: "KU 7680" ; Times: 2
+	Query: "Centropages typicus mappable:1" ; Times: 11
+	Query: "Pseudocalanus minutus mappable:1" ; Times: 9
+	Query: "Metridia lucens lucens mappable:1" ; Times: 10
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 0 (out of 1367 download events in this period)
+Total number of records downloaded: 0
+Number of different countries: 0
+
+Origin of the queries that retrieved data from the resource: 
+
+Dates of the queries that retrieved data from the resource: 
+
+List of queries that retrieved data from the resource: 
+
+
+End of report.
