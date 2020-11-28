@@ -1,0 +1,32 @@
+Report for Institution Code DMU, Resource ds21
+Usage stats for October 2020, generated on 2020/11/28
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 5
+Number of records retrieved in searches: 500
+Number of different countries where searches have been originated: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Ecuador ; Times: 5
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-10-11 ; Times: 5
+
+List of queries that retrieved data from the resource: 
+	Query: "Dictyochales" ; Times: 5
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 0 (out of 1521 download events in this period)
+Total number of records downloaded: 0
+Number of different countries: 0
+
+Origin of the queries that retrieved data from the resource: 
+
+Dates of the queries that retrieved data from the resource: 
+
+List of queries that retrieved data from the resource: 
+
+
+End of report.
